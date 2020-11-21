@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "325653870838",
+    "firebase_url": "https://youthhub-5bbff.firebaseio.com",
+    "project_id": "youthhub-5bbff",
+    "storage_bucket": "youthhub-5bbff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325653870838:android:9e9e0dfb1724ca98c054d7",
+        "android_client_info": {
+          "package_name": "com.example.youthhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325653870838-mu9q22qgl33j3fuc0fm6o16mc814s07m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.youthhub",
+            "certificate_hash": "4ee6b66e30b0dbee0305d14004c0a6b9fc82bfa7"
+          }
+        },
+        {
+          "client_id": "325653870838-n19lee7pacv41elojuuthnaodsgi9428.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFe1xQDieVuSUEKIcqpC-bCSA2CkN1M90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325653870838-n19lee7pacv41elojuuthnaodsgi9428.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
